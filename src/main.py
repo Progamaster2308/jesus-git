@@ -1,2 +1,6 @@
 print('Versión Inicial del Proyecto')
 print('Funcionalidad 1 activada')
+print('Funcionalidad 2 activada')
+print('Funcionalidad 3 activada')
+print('Funcionalidad 4 activada')
+print('Funcionalidad 5 activada')
